@@ -1,0 +1,13 @@
+﻿  DeathScreen.cpp
+  Game.cpp
+  GreenDino.cpp
+  MainMenu.cpp
+  ParallaxBackground.cpp
+  SeaUrchin.cpp
+  shootermain.cpp
+  UnderwaterDinoGame.cpp
+C:\Users\eromd\Downloads\UnderwaterDinoGame\UnderwaterDinoGame\UnderwaterDinoGame\UnderwaterDinoGame.cpp(221,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eromd\Downloads\UnderwaterDinoGame\UnderwaterDinoGame\UnderwaterDinoGame\UnderwaterDinoGame.cpp(230,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eromd\Downloads\UnderwaterDinoGame\UnderwaterDinoGame\UnderwaterDinoGame\UnderwaterDinoGame.cpp(239,23): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  UnderwaterDinoGame.vcxproj -> C:\Users\eromd\Downloads\UnderwaterDinoGame\UnderwaterDinoGame\Debug\UnderwaterDinoGame.exe
